@@ -1,0 +1,28 @@
+body {
+    background-color: white;
+    font-family: Arial, sans-serif;
+}
+
+h1, h2, h3, p {
+    color: #556B2F; /* Olive Green */
+    text-align: center;
+}
+
+textarea, input, select {
+    background-color: #f8f8f8;
+    border: 1px solid #556B2F;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.gradio-container {
+    background-color: #F5F5F5;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+#interface-title {
+    font-size: 24px;
+    color: #556B2F;
+    text-align: center;
+}
